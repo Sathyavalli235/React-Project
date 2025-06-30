@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Project/static/css/main.2c287a9e.css",
+    "main.js": "/React-Project/static/js/main.4e8734a3.js",
+    "static/media/c01.jpg": "/React-Project/static/media/c01.9d18de170461044630a4.jpg",
+    "static/media/c02.jpg": "/React-Project/static/media/c02.948cd04fe71fdade83dc.jpg",
+    "static/media/card1.jpg": "/React-Project/static/media/card1.b13b25b70dbe6d633a35.jpg",
+    "static/media/about.jpg": "/React-Project/static/media/about.9f8b07b0775226eab1fb.jpg",
+    "static/media/c03.jpg": "/React-Project/static/media/c03.1be937d465d8b83e84e7.jpg",
+    "static/media/card2.jpg": "/React-Project/static/media/card2.4f21c519cedd0c59e0b7.jpg",
+    "static/media/card9.jpeg": "/React-Project/static/media/card9.b8c547e7919a32d5eae8.jpeg",
+    "static/media/card4.jpeg": "/React-Project/static/media/card4.1118b21145f1de4d1d8e.jpeg",
+    "static/media/card10.jpeg": "/React-Project/static/media/card10.9ef1ff96e855daa95a1c.jpeg",
+    "static/media/card8.jpeg": "/React-Project/static/media/card8.36d133e5b09dd4eab14a.jpeg",
+    "static/media/card3.jpeg": "/React-Project/static/media/card3.015386934fc3fe439cdf.jpeg",
+    "static/media/card6.jpeg": "/React-Project/static/media/card6.a25afa17e6f0d27a66fa.jpeg",
+    "index.html": "/React-Project/index.html",
+    "main.2c287a9e.css.map": "/React-Project/static/css/main.2c287a9e.css.map",
+    "main.4e8734a3.js.map": "/React-Project/static/js/main.4e8734a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c287a9e.css",
+    "static/js/main.4e8734a3.js"
+  ]
+}
