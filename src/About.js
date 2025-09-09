@@ -12,7 +12,7 @@ const About = () => {
                 <div className="logo">
                     <img src={logo} alt="Jewellery Logo" />
                 </div>
-                <div className="brand-name">
+                <div className="brand-name">e
                     <span>Timeless Trinkets</span>
                 </div>
                 <ul className="nav-list">
